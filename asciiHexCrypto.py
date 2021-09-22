@@ -2,7 +2,7 @@
 
 def main():
     print("Hi this is The Awesome Hexadecimal to ASCII encoding/decoding");
-    print("Tell me, do u want to decode os encode an ASCII text???");
+    print("Tell me, do u want to decode or encode an ASCII text???");
     menuOption = input("(Type '1' to encode and '2' to decoding) ");
     
 
@@ -35,6 +35,6 @@ main();
 
 #TestInfo:
 #https://github.com/adriano-sick/asciiHexCrypto
-#68747470733a2f2f6769746875622e636f6d2f61647269616e6f2d7369636b2f
+#68747470733a2f2f6769746875622e636f6d2f61647269616e6f2d7369636b2f617363696948657843727970746f
 
 
