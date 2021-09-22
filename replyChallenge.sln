@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "replyChallenge", "replyChallenge.pyproj", "{3B6F08EC-88C8-4C90-9E45-353ADC1E8AFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B6F08EC-88C8-4C90-9E45-353ADC1E8AFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B6F08EC-88C8-4C90-9E45-353ADC1E8AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A17D0BAA-9AFF-4D62-B2E2-E7B21FEBF5FE}
+	EndGlobalSection
+EndGlobal
