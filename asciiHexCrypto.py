@@ -34,7 +34,7 @@ main();
 
 
 #TestInfo:
-#https://github.com/adriano-sick/
-#
+#https://github.com/adriano-sick/asciiHexCrypto
+#68747470733a2f2f6769746875622e636f6d2f61647269616e6f2d7369636b2f
 
 
